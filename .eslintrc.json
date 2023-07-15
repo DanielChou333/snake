@@ -10,6 +10,7 @@
     "overrides": [
     ],
     "parserOptions": {
+        "emcaFeatures": {"jsx": true},
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
